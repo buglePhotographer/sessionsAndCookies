@@ -131,6 +131,7 @@
                 </div>
                 <div class="row" align="center">
                     <button class="btn btn-primary" type="submit" id="submitButton" >Recordame</button>
+                    <button class="btn btn-primary" type="submit" id="removeCookiesButton" >Olvidame</button>
                 </div>
                 <br>
             </div>
